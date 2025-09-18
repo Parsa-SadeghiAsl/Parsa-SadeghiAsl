@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parsa Sadeghi Asl</h1>
 <h3 align="center">A passionate software engineer from Iran</h3>
 
-- 🔭 I’m currently working on [Flask Media Gallery](https://github.com/Parsa-SadeghiAsl/flask-media-gallery) / [NOVA-AIterminal](https://github.com/Parsa-SadeghiAsl/NOVA-AIterminal)
+- 🔭 I’m currently working on [Quanta](https://github.com/Parsa-SadeghiAsl/quanta)
 
 - 🌱 I’m currently learning **Django, Flask, LLM**
 
